@@ -1,0 +1,24 @@
+.login-page{
+    text-align: center;
+    padding-top: 15%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.login-page h1{
+    margin-bottom: 25px;
+}
+.login-page a.btn{
+    background: #482768;
+    padding: 8px 16px;
+    font-size: 20px;
+    color: #fff;
+}
+.login-page .logIn_logo{
+    margin: 20px auto;
+    display: block;
+    width: auto;
+}
+
+@media screen and (max-width:768px){
+  
+}
